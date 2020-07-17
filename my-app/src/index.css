@@ -1,0 +1,11 @@
+
+.wraper{
+  border: dashed 1px gray;
+  width: 500px;
+  background-color: cadetblue;
+  border-radius: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
